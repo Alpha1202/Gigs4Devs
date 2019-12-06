@@ -1,0 +1,25 @@
+{
+  "name": "Gigs4Devs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpha1202/Gigs4Devs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alpha1202/Gigs4Devs/issues"
+  },
+  "homepage": "https://github.com/Alpha1202/Gigs4Devs#readme"
+}
